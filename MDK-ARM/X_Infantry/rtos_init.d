@@ -1,0 +1,12 @@
+x_infantry\rtos_init.o: ..\Framework\rtos\rtos_init.c
+x_infantry\rtos_init.o: ..\Framework\rtos\rtos_init.h
+x_infantry\rtos_init.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+x_infantry\rtos_init.o: ..\Framework\utilities\utilities_debug.h
+x_infantry\rtos_init.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+x_infantry\rtos_init.o: ..\Framework\drivers\drivers_canmotor_low.h
+x_infantry\rtos_init.o: ..\Framework\drivers\drivers_uartupper_low.h
+x_infantry\rtos_init.o: ..\Framework\drivers\drivers_uartrc_low.h
+x_infantry\rtos_init.o: ..\Framework\drivers\drivers_uart_judge.h
+x_infantry\rtos_init.o: ..\Framework\drivers\drivers_imu_low.h
+x_infantry\rtos_init.o: ..\Framework\utilities\utilities_tim.h
+x_infantry\rtos_init.o: ..\Framework\drivers\drivers_buzzer_low.h
